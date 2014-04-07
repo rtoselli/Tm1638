@@ -6,6 +6,9 @@ Tests with the Tm1638 module with the arduino
 
 Deploying
 ======
+
+I got the TM lib from http://code.google.com/p/tm1638-library/
+
 Copy the tm1638 lib to your arduino ide libraries folder and upload the code to your arduino.
 
 This sketch uses the pins 7 (Strobe0),8 (Data) and 9 (Clock).
