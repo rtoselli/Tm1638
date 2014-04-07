@@ -21,3 +21,9 @@ The tm1638 pinout is:
 7 - STB2
 8 - STB3
 9 - STB4
+
+
+Video
+======
+
+The code running can be seen here : http://www.youtube.com/watch?v=Uuteo_2xMKU
